@@ -1,12 +1,12 @@
 # RedEssence: Embrace Multi-Dimensional Approach to Menstrual Well-Being
 
-**Overview**:
+## Overview:
 
 The Digital Menstrual Health Platform is an innovative web and mobile application designed to support women's health and well-being. It provides tools for menstrual cycle tracking, product ordering, educational resources, and community engagement. This platform aims to empower women with knowledge and resources to manage their menstrual health effectively.
 
-**Features**:
+## Features:
 
-**User Registration and Login**: Secure registration and login functionality to ensure user data privacy and security.
+<u> User Registration and Login </u>: Secure registration and login functionality to ensure user data privacy and security.
 
 **Profile Management**: Users can create and manage their profiles, including updating personal details and tracking their menstrual cycles.
 
