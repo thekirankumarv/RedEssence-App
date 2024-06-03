@@ -6,7 +6,7 @@ The Digital Menstrual Health Platform is an innovative web and mobile applicatio
 
 ## Features:
 
-<u> User Registration and Login </u>: Secure registration and login functionality to ensure user data privacy and security.
+**User Registration and Login**: Secure registration and login functionality to ensure user data privacy and security.
 
 **Profile Management**: Users can create and manage their profiles, including updating personal details and tracking their menstrual cycles.
 
